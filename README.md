@@ -8,12 +8,13 @@
   * Knowledge of Blockchain
   * Knowledge of EOS
   * Two years of work experience( include internship experience)
-  * English
+  * English read and write
 
 * Responsibilities: 
   * Maintain eos node
   * Write smart contract
   * Write Web App
+  * Good at speaking english
  
 * Bonus
   * Attend one open source project. 
