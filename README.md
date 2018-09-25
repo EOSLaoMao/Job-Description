@@ -14,12 +14,13 @@
   * Maintain eos node
   * Write smart contract
   * Write Web App
-  * Good at speaking english
+
  
 * Bonus
   * Attend one open source project. 
   * Maintain one github project which has >= 50 stars.
   * Finish at least one coursera course. 
+  * Good at speaking english
 
 * Location:
   * Tokyo , btw: accept remote. 
