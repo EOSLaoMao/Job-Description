@@ -13,7 +13,7 @@
 * Responsibilities: 
   * Maintain eos node
   * Write smart contract
-  * Write Web App
+  * Write web App
 
  
 * Bonus
