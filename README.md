@@ -1,3 +1,6 @@
+# Team introduction:
+* EOSLaoMao is the top21 eos block producer node based in tokyo.
+
 # Job Description
 ## Developer
 * Requirements:
